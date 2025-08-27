@@ -352,3 +352,5 @@ export class DatabaseStorage implements IStorage {
 export const storage = new MockStorage();
 // Prefer database storage when a database client is available
 export const persistentStorage: IStorage = db ? new DatabaseStorage() : new MockStorage();
+
+

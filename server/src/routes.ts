@@ -18,7 +18,7 @@ const upload = multer({
 	}
 })
 
-type MulterRequest = Request & { file?: any };
+type MulterRequest = Request & { file?: Express.Multer.File };
 
 export async function registerRoutes(app: Express): Promise<Server> {
 	// Discover available OAuth providers based on env
@@ -254,3 +254,5 @@ export async function registerRoutes(app: Express): Promise<Server> {
 	const httpServer = createServer(app);
 	return httpServer;
 }
+
+

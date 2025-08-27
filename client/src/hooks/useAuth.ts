@@ -1,6 +1,6 @@
 import { useQuery } from "@tanstack/react-query";
 import { getQueryFn } from "@/lib/queryClient";
-import type { User } from "@shared/schema";
+import type { User } from "@/types/api";
 
 export function useAuth() {
   const { data: user, isLoading } = useQuery<User>({

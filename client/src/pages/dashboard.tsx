@@ -11,7 +11,7 @@ import Navbar from "@/components/layout/navbar";
 import Footer from "@/components/layout/footer";
 import { FileText, Search, Grid, List, Plus, Edit, Trash2, Copy, Download, BarChart3, Briefcase, Mail, Code } from "lucide-react";
 import { useLocation } from "wouter";
-import type { Resume, Portfolio, CoverLetter, Project } from "@shared/schema";
+import type { Resume, Portfolio, CoverLetter, Project } from "@/types/api";
 import { useToast } from "@/hooks/use-toast";
 
 export default function Dashboard() {
