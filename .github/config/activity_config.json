@@ -5,7 +5,7 @@
   "schedule": {
     "frequency": "multiple_daily",
     "commits_per_day_min": 4,
-    "commits_per_day_max": 26,
+    "commits_per_day_max": 18,
     "description": "4-26 commits daily with random variance"
   },
   "commit_settings": {
