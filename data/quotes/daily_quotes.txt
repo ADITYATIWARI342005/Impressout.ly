@@ -177,3 +177,4 @@
 [2025-10-07 14:53:30] The best way to predict the future is to implement it. - Alan Kay
 [2025-10-07 22:35:54] The best error message is the one that never shows up. - Thomas Fuchs
 [2025-10-08 01:58:41] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-10-08 06:42:38] It's not a bug – it's an undocumented feature. - Anonymous
