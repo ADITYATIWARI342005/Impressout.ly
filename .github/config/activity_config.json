@@ -4,8 +4,8 @@
   "max_changes_per_run": 3,
   "schedule": {
     "frequency": "multiple_daily",
-    "commits_per_day_min": 4,
-    "commits_per_day_max": 18,
+    "commits_per_day_min": 2,
+    "commits_per_day_max": 4,
     "description": "4-26 commits daily with random variance"
   },
   "commit_settings": {
