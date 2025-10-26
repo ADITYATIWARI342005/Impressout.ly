@@ -252,3 +252,4 @@
 [2025-10-25 14:52:37] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
 [2025-10-25 16:43:31] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
 [2025-10-26 02:15:27] First, solve the problem. Then, write the code. - John Johnson
+[2025-10-26 16:43:23] It's not a bug – it's an undocumented feature. - Anonymous
